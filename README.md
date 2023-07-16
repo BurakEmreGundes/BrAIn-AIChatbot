@@ -9,7 +9,7 @@ Your AI Assistant. <a href="https://github.com/BurakEmreGundes/BrAIn-AIChatbot" 
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#screenshots">Screenshots</a> •
-  <a href="#technologies-used">Technologies Used</a> •
+  <a href="#technologies-used">Technologies Used</a> 
 </p>
 
 ## Key Features
