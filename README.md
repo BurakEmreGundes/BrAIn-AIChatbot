@@ -17,7 +17,7 @@
 * Chat Mechanics
 * MVVM Design Pattern
 * Protocol-Oriented Programming <h4>(POP)</h4>
-* Fully <h4>Programmatic</h4> UI
+* Fully <b>Programmatic</b> UI
 * Server-Sent Events <h4>(SSE)</h4>
 * Compatible with iOS 13.0+
 * OpenAI API <h4>(ChatGPT+)</h4>
