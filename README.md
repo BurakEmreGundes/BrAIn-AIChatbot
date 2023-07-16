@@ -1,8 +1,9 @@
 # BrAIn-AIChatbot
-![My project-1](https://wallpaperaccess.com/full/712419.png)
+![My project-1](https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/e9f4bd28-021e-458a-883b-64e2abd0a05d)
 
 <hr>
-<h4 align="center">NetflixClone app <a href="https://github.com/BurakEmreGundes/MovieAppMVVM" target="_blank">NetflixClone</a>.</h4>
+<h4 align="center">Brain App
+Your AI Assistant. <a href="https://github.com/BurakEmreGundes/BrAIn-AIChatbot" target="_blank">BrAIn-AI Chatbot</a>.</h4>
 
 
 <p align="center">
