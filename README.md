@@ -16,17 +16,17 @@
 * 12 Screen Design
 * Chat Mechanics
 * MVVM Design Pattern
-* Protocol-Oriented Programming <h4>(POP)</h4>
+* Protocol-Oriented Programming <b>(POP)</b>
 * Fully <b>Programmatic</b> UI
-* Server-Sent Events <h4>(SSE)</h4>
+* Server-Sent Events <b>(SSE)</b>
 * Compatible with iOS 13.0+
-* OpenAI API <h4>(ChatGPT+)</h4>
-* In-app purchase <h4>(StoreKit)</h4>
+* OpenAI API <b>(ChatGPT+)</b>
+* In-app purchase <b>(StoreKit)</b>
 * Combine framework used for observers of message screen
-* <h4>AVFoundation</h4> and <h4>Speech framework</h4> used for <h4>Speech-to-Text</h4> and <h4>Text-to-Speech</h4> operation
-* Used <h4>Firebase Remote Config</h4> for <h4>A/B<h4> test
-* Used <h4>OneSignal</h4> for push notifications
-* Used <h4>Sentry</h4> for Crash Monitoring
+* <b>AVFoundation</b> and <b>Speech framework</b> used for <b>Speech-to-Text</b> and <b>Text-to-Speech</b> operation
+* Used <b>Firebase Remote Config</b> for <b>A/B<b> test
+* Used <b>OneSignal</b> for push notifications
+* Used <b>Sentry</b> for Crash Monitoring
 * Fully Cocoapods build
 
 * Cross platform
