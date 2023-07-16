@@ -3,7 +3,7 @@
 
 <hr>
 <h4 align="center">Brain App
-Your AI Assistant. <a href="https://github.com/BurakEmreGundes/BrAIn-AIChatbot" target="_blank">BrAIn-AI Chatbot</a>.</h4>
+Your AI Assistant. <a href="https://apps.apple.com/app/id6445956380" target="_blank">BrAIn-AI Chatbot</a>.</h4>
 
 
 <p align="center">
