@@ -36,7 +36,7 @@ Your AI Assistant. <a href="https://github.com/BurakEmreGundes/BrAIn-AIChatbot" 
 
 
 ## Screenshots
-<img width="163" alt="1" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/3dd6379f-5afe-4f86-9201-feeb34101c55"> 
+<img width="163" alt="1" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/34c3316a-5a4c-4471-86ab-d4fda468b4c7"> 
 <img width="163" alt="2" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/00b7526f-d85d-4055-a1c8-fda91af8b5bc">
 <img width="163" alt="3" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/ede1b13b-ff00-41eb-92e2-04fcb44b19ad"> 
 <img width="163" alt="4" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/9739968c-537e-4362-b563-745aa49fac31"> 
