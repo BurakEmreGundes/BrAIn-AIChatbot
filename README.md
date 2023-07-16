@@ -21,7 +21,7 @@
 * Server-Sent Events <b>(SSE)</b>
 * Compatible with iOS 13.0+
 * OpenAI API <b>(ChatGPT+)</b>
-* In-app purchase <b>(StoreKit)</b>
+* In-app purchase Subscription <b>(StoreKit)</b>
 * Combine framework used for observers of message screen
 * <b>AVFoundation</b> and <b>Speech framework</b> used for <b>Speech-to-Text</b> and <b>Text-to-Speech</b> operation
 * Used <b>Firebase Remote Config</b> for <b>A/B</b> test
