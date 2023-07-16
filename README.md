@@ -1,5 +1,5 @@
 # BrAIn-AIChatbot
-![My project-1](https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/e9f4bd28-021e-458a-883b-64e2abd0a05d)
+![My project-1](https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/77effe4b-56aa-4df5-9787-a4002a146d06)
 
 <hr>
 <h4 align="center">Brain App
