@@ -32,8 +32,6 @@ Your AI Assistant. <a href="https://github.com/BurakEmreGundes/BrAIn-AIChatbot" 
 * Used <b>Sentry</b> for Crash Monitoring
 * Fully <b>Cocoapods</b> build
 
-* Cross platform
-  - iOS, macOS ready.
 
 ## Screenshots
 <img width="163" alt="1" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/3dd6379f-5afe-4f86-9201-feeb34101c55"> 
