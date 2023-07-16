@@ -27,7 +27,7 @@
 * Used <b>Firebase Remote Config</b> for <b>A/B</b> test
 * Used <b>OneSignal</b> for push notifications
 * Used <b>Sentry</b> for Crash Monitoring
-* Fully Cocoapods build
+* Fully <b>Cocoapods</b> build
 
 * Cross platform
   - iOS, macOS ready.
