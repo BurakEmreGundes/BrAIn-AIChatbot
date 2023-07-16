@@ -19,6 +19,7 @@ Your AI Assistant. <a href="https://github.com/BurakEmreGundes/BrAIn-AIChatbot" 
 * MVVM Design Pattern
 * Protocol-Oriented Programming <b>(POP)</b>
 * Fully <b>Programmatic</b> UI
+* Used Lottie for animations
 * Server-Sent Events <b>(SSE)</b>
 * Compatible with iOS 13.0+
 * OpenAI API <b>(ChatGPT+)</b>
@@ -34,12 +35,18 @@ Your AI Assistant. <a href="https://github.com/BurakEmreGundes/BrAIn-AIChatbot" 
   - iOS, macOS ready.
 
 ## Screenshots
-<img width="163" alt="1" src="https://github.com/BurakEmreGundes/MovieAppMVVM/assets/63010381/c36ebb20-e990-4c13-aca1-1b2597ef127c"> 
-<img width="163" alt="2" src="https://github.com/BurakEmreGundes/MovieAppMVVM/assets/63010381/610ca183-778c-436c-a22b-ffa10375b363"> 
-<img width="163" alt="3" src="https://github.com/BurakEmreGundes/MovieAppMVVM/assets/63010381/2b49f0a3-fb12-4416-9701-2ac08da1b0ff"> 
-<img width="163" alt="4" src="https://github.com/BurakEmreGundes/MovieAppMVVM/assets/63010381/2f64154c-5ad2-4fdc-8672-2072cd51f104"> 
-<img width="163" alt="5" src="https://github.com/BurakEmreGundes/MovieAppMVVM/assets/63010381/8ca54e41-57a9-4318-aa5e-b7db31e53a9a">
-<img width="163" alt="6" src="https://github.com/BurakEmreGundes/MovieAppMVVM/assets/63010381/1f557ae7-3c57-40ae-9bd7-d077c0212353"> <img 
+<img width="163" alt="1" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/e9e19d53-1007-4139-9b47-ffa5d3835418"> 
+<img width="163" alt="2" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/11ca01da-20c0-4b77-b775-f165eb310e82"> 
+<img width="163" alt="3" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/bbedc6ff-406c-4bb8-921e-a1c87012ce3d"> 
+<img width="163" alt="4" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/6ea654d9-ec90-48cf-ace8-5d2d3a05f52d"> 
+<img width="163" alt="5" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/39093f0a-4bcc-46d1-8b43-0cf928f60ab0">
+<img width="163" alt="6" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/371634ea-0760-4bd3-9ddc-9186082d8081"> 
+<img width="163" alt="7" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/54ff1f52-4959-4eb5-a662-574c1932bfeb"> 
+<img width="163" alt="8" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/8cf67713-fad2-4dd5-9c7a-bc450189989e"> 
+<img width="163" alt="9" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/9739968c-537e-4362-b563-745aa49fac31"> 
+<img width="163" alt="10" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/ede1b13b-ff00-41eb-92e2-04fcb44b19ad"> 
+<img width="163" alt="11" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/00b7526f-d85d-4055-a1c8-fda91af8b5bc"> 
+<img width="163" alt="12" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/3dd6379f-5afe-4f86-9201-feeb34101c55"> 
 
 ## Technologies Used
 
