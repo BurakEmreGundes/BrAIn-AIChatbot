@@ -37,15 +37,15 @@ Your AI Assistant. <a href="https://github.com/BurakEmreGundes/BrAIn-AIChatbot" 
 
 ## Screenshots
 <img width="163" alt="1" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/34c3316a-5a4c-4471-86ab-d4fda468b4c7"> 
-<img width="163" alt="2" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/00b7526f-d85d-4055-a1c8-fda91af8b5bc">
-<img width="163" alt="3" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/ede1b13b-ff00-41eb-92e2-04fcb44b19ad"> 
-<img width="163" alt="4" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/9739968c-537e-4362-b563-745aa49fac31"> 
-<img width="163" alt="5" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/8cf67713-fad2-4dd5-9c7a-bc450189989e">
-<img width="163" alt="6" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/54ff1f52-4959-4eb5-a662-574c1932bfeb"> 
-<img width="163" alt="7" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/371634ea-0760-4bd3-9ddc-9186082d8081"> 
-<img width="163" alt="8" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/39093f0a-4bcc-46d1-8b43-0cf928f60ab0">
+<img width="163" alt="2" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/6a39fe03-0737-4530-b0ed-71f7c6669c8e">
+<img width="163" alt="3" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/15156d18-bf28-443f-90ea-31198e7385bc"> 
+<img width="163" alt="4" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/65345e77-c6a7-400e-a406-96660c2131a0"> 
+<img width="163" alt="5" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/0095db29-536a-4406-a3d0-4c1c1d6b8469">
+<img width="163" alt="6" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/bde0e2e2-e20e-444d-b4c8-0835b5758422"> 
+<img width="163" alt="7" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/8cdd4df0-2c33-49b9-8111-043468433e21"> 
+<img width="163" alt="8" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/9edaf40e-e1ad-4482-8a8b-6a206304749c">
 <img width="163" alt="9" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/6ea654d9-ec90-48cf-ace8-5d2d3a05f52d"> 
-<img width="163" alt="10" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/bbedc6ff-406c-4bb8-921e-a1c87012ce3d"> 
+<img width="163" alt="10" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/6e1cacba-0741-4701-b18c-a6523f777811"> 
 <img width="163" alt="11" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/11ca01da-20c0-4b77-b775-f165eb310e82"> 
 <img width="163" alt="12" src="https://github.com/BurakEmreGundes/BrAIn-AIChatbot/assets/63010381/e9e19d53-1007-4139-9b47-ffa5d3835418"> 
 
