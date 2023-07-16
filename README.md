@@ -24,7 +24,7 @@
 * In-app purchase <b>(StoreKit)</b>
 * Combine framework used for observers of message screen
 * <b>AVFoundation</b> and <b>Speech framework</b> used for <b>Speech-to-Text</b> and <b>Text-to-Speech</b> operation
-* Used <b>Firebase Remote Config</b> for <b>A/B<b> test
+* Used <b>Firebase Remote Config</b> for <b>A/B</b> test
 * Used <b>OneSignal</b> for push notifications
 * Used <b>Sentry</b> for Crash Monitoring
 * Fully Cocoapods build
