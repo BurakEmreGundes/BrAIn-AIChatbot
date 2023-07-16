@@ -16,6 +16,7 @@ Your AI Assistant. <a href="https://github.com/BurakEmreGundes/BrAIn-AIChatbot" 
 
 * 12 Screen Design
 * Chat Mechanics
+* Voice Mechanics
 * Subscription Mechanics (Weekly, Monthly). <b>First 3 prompts are free</b>
 * MVVM Design Pattern
 * Protocol-Oriented Programming <b>(POP)</b>
